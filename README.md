@@ -7,4 +7,4 @@ Welcome to timeline. What you will see here:
 
 Uh that's kinda the entire thing.
 
-###Thank you for choosing Timeline.
+### Thank you for choosing Timeline.
